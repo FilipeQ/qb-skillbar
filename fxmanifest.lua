@@ -19,8 +19,4 @@ exports {
     'GetSkillbarObject'
 }
 
-dependencies {
-    'qb-core'
-}
-
 lua54 'yes'
